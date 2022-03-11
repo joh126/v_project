@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T10:47:52.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="sWmxFeD1iF0vPCRQ2ZCB" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T10:50:19.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="h3XexponjEDu2-9rVvlb" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-204" value="快捷新用户是否绑卡" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="250" width="160" height="160" as="geometry" />
+          <mxGeometry x="1580" y="250" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-206" value="" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="300" width="120" height="60" as="geometry" />
@@ -375,6 +375,21 @@
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-255" value="更新优惠券状态（去使用）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="zbjC4olAFxsm4mvHzc2k-257" target="zbjC4olAFxsm4mvHzc2k-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-257" value="按钮状态" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-261" value="点击" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="zbjC4olAFxsm4mvHzc2k-258" target="zbjC4olAFxsm4mvHzc2k-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-258" value="已开启" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-260" value="跳转老用户页..." style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
