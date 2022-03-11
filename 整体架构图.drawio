@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T10:28:20.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="DzUlvkl36v-NPOT71TGU" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T10:30:04.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="KQ9GXLnoLCmT8Zb4AK_b" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
           <mxGeometry x="1960" y="80" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-199" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="120" width="830" height="920" as="geometry" />
+          <mxGeometry x="1552" y="120" width="830" height="920" as="geometry" />
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="zbjC4olAFxsm4mvHzc2k-200" target="zbjC4olAFxsm4mvHzc2k-204">
           <mxGeometry relative="1" as="geometry" />
@@ -254,11 +254,25 @@
         <mxCell id="zbjC4olAFxsm4mvHzc2k-206" value="" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="zbjC4olAFxsm4mvHzc2k-209" target="zbjC4olAFxsm4mvHzc2k-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-220" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#003366;" vertex="1" connectable="0" parent="zbjC4olAFxsm4mvHzc2k-218">
+          <mxGeometry x="0.4788" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-209" value="展示“立即开启”按钮" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="500" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="zbjC4olAFxsm4mvHzc2k-212" target="zbjC4olAFxsm4mvHzc2k-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-212" value="优惠券状态(开启领取)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="500" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-217" value="跳转绑卡页,引导开卡" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="614.85" width="350" height="55.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
