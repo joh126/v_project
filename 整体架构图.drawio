@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T11:36:11.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="SGCE1j98VA-J8MXtCMC2" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T11:36:43.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="VI7wscgVrS_aLFoX6qT9" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="666" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,10 +394,10 @@
             <mxPoint x="1770" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TT_78pEH3FQqwY4E95Ri-3" value="按钮状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TT_78pEH3FQqwY4E95Ri-3" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 16px&quot;&gt;按钮状态&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1585" y="1350" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TT_78pEH3FQqwY4E95Ri-5" value="跳转开通绑卡" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TT_78pEH3FQqwY4E95Ri-5" value="&lt;font color=&quot;#003366&quot; style=&quot;font-size: 16px&quot;&gt;跳转开通绑卡&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
