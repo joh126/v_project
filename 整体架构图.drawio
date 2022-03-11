@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T11:33:04.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="7fZwE-njHVirGws_Dgya" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T11:36:11.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="SGCE1j98VA-J8MXtCMC2" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="3245" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,12 +376,6 @@
         <mxCell id="zbjC4olAFxsm4mvHzc2k-255" value="更新优惠券状态（去使用）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1580" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbjC4olAFxsm4mvHzc2k-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" parent="1" source="zbjC4olAFxsm4mvHzc2k-257" target="zbjC4olAFxsm4mvHzc2k-258" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zbjC4olAFxsm4mvHzc2k-257" value="按钮状态" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1360" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-261" value="点击" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#003366;" parent="1" source="zbjC4olAFxsm4mvHzc2k-258" target="zbjC4olAFxsm4mvHzc2k-260" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -390,6 +384,21 @@
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-260" value="跳转老用户页..." style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1580" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TT_78pEH3FQqwY4E95Ri-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TT_78pEH3FQqwY4E95Ri-3" target="zbjC4olAFxsm4mvHzc2k-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TT_78pEH3FQqwY4E95Ri-6" value="未开启" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1695" y="1390" as="sourcePoint" />
+            <mxPoint x="1770" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TT_78pEH3FQqwY4E95Ri-3" value="按钮状态" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="1350" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TT_78pEH3FQqwY4E95Ri-5" value="跳转开通绑卡" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
