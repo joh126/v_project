@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T08:19:35.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="NXKD8LZC-P05B_kKK-sm" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T08:23:33.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="vA0KsdYAqJbBbWEQRDDU" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,18 @@
         </mxCell>
         <mxCell id="zbjC4olAFxsm4mvHzc2k-91" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; line-height: 1.5 ; letter-spacing: -0.006em ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; letter-spacing: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#003366&quot;&gt;8.京东支付笔笔返京豆（广告轮播图）&lt;/font&gt;&lt;/p&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="335" y="760" width="245" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-94" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="830" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-96" value="Client端" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-97" value="Server端" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-98" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=none;container=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="830" height="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
