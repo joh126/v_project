@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T11:01:44.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="AQ1cvQS7AjJxQShCCbUj" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T11:04:50.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="QjKblbwPYp4SDWBxTCQH" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="927" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1997" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,59 +499,65 @@
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-35" value="补领优惠券模块" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="2680" y="250" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-38" target="ei_FqSJ4KLF9EHLbvm5I-39">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-55" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#003366;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="500" width="830" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-57" target="ei_FqSJ4KLF9EHLbvm5I-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-38" value="Banner图" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="514.5" width="160" height="60" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-57" value="Banner图" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="580" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-39" value="使用Swiper" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="514.5" width="120" height="60" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-58" value="使用Swiper" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-41" target="ei_FqSJ4KLF9EHLbvm5I-42">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-60" target="ei_FqSJ4KLF9EHLbvm5I-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-41" value="优惠券专区（银行优惠券、云闪付优惠券）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="610" width="180" height="60" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-60" value="优惠券专区（银行优惠券、云闪付优惠券）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="675.5" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-42" target="ei_FqSJ4KLF9EHLbvm5I-44">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-63" target="ei_FqSJ4KLF9EHLbvm5I-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-46" value="更多" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-45">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-62" value="更多" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-61">
           <mxGeometry x="-0.0767" y="-3" relative="1" as="geometry">
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-42" value="首屏展示数量3张" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="610" width="150" height="60" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-63" value="首屏展示数量3张" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2730" y="675.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-44" value="跳转配置列表页" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2985" y="610" width="145" height="60" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-64" value="跳转配置列表页" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2975" y="675.5" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-47" target="ei_FqSJ4KLF9EHLbvm5I-48">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-67" target="ei_FqSJ4KLF9EHLbvm5I-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-50" value="展示模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-49">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-66" value="展示模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-65">
           <mxGeometry x="-0.3186" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-1" as="offset" />
+            <mxPoint x="12" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-47" value="黑科技专区" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="700" width="160" height="80" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-67" value="黑科技专区" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="765.5" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-48" target="ei_FqSJ4KLF9EHLbvm5I-51">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-70" target="ei_FqSJ4KLF9EHLbvm5I-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-53" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-52">
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-69" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-68">
           <mxGeometry x="-0.2587" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-48" value="&lt;h3 id=&quot;id-京东支付小程序一期-”快付、小额免密、一键绑卡、膨胀金、订单公益、助农馆、账户安全保障“入口&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 16px ; line-height: 1.5 ; letter-spacing: -0.006em ; color: rgb(23 , 43 , 77)&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;快付、小额免密、一键绑卡、膨胀金、订单公益、助农馆、账户安全保障&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="700" width="270" height="80" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-70" value="&lt;h3 id=&quot;id-京东支付小程序一期-”快付、小额免密、一键绑卡、膨胀金、订单公益、助农馆、账户安全保障“入口&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 16px ; line-height: 1.5 ; letter-spacing: -0.006em ; color: rgb(23 , 43 , 77)&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;快付、小额免密、一键绑卡、膨胀金、订单公益、助农馆、账户安全保障&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="765.5" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-51" value="跳出小程序、达到商城app打开" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="3100" y="700" width="160" height="80" as="geometry" />
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-71" value="跳出小程序、达到商城app打开" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="765.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-72" value="功能区" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#003366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="500" width="830" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
