@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T11:05:01.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="BSg4C3f9KjqIfuJETuRr" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T11:08:40.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="MYCAeu1ZiStp4cWUknOl" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1997" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -500,7 +500,7 @@
           <mxGeometry x="2680" y="250" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-55" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#003366;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="500" width="830" height="470" as="geometry" />
+          <mxGeometry x="2450" y="500" width="830" height="670" as="geometry" />
         </mxCell>
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-57" target="ei_FqSJ4KLF9EHLbvm5I-58">
           <mxGeometry relative="1" as="geometry" />
@@ -558,6 +558,26 @@
         </mxCell>
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-72" value="交互功能区" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#003366;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2450" y="500" width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-73" target="ei_FqSJ4KLF9EHLbvm5I-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-73" value="乡村振兴专区" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="1" source="ei_FqSJ4KLF9EHLbvm5I-74" target="ei_FqSJ4KLF9EHLbvm5I-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-78" value="方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="ei_FqSJ4KLF9EHLbvm5I-77">
+          <mxGeometry x="-0.4297" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-74" value="展示方式根据定位坐标展示" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="880" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ei_FqSJ4KLF9EHLbvm5I-76" value="1.百度地图lbs&lt;br&gt;2.中台sdk接口获取" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="880" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
