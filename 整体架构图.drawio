@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T10:49:10.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="JBv7F271pjfdTr9VzfFy" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T10:49:34.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="JaOeQB3opQ1QICEvsSEY" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -494,10 +494,10 @@
           <mxGeometry x="2500" y="220" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-33" value="展示领取的优惠券" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-35" value="补领优惠券模块" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="2680" y="250" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
