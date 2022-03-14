@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:54:20.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="3gvaUy0OX4HK75d0WbG_" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T09:54:39.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="U4A63LBSzq-EDpyuBFBB" version="16.6.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1082" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zbjC4olAFxsm4mvHzc2k-215" value="未绑卡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#003366;" parent="zbjC4olAFxsm4mvHzc2k-213" vertex="1" connectable="0">
+        <mxCell id="zbjC4olAFxsm4mvHzc2k-215" value="未绑卡/新用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#003366;" parent="zbjC4olAFxsm4mvHzc2k-213" vertex="1" connectable="0">
           <mxGeometry x="-0.6522" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-1" as="offset" />
           </mxGeometry>
