@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T09:04:16.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jIsDk-lgUOg4BLc8l5fn" version="17.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-17T09:04:48.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9HqygEE6JiUYzx_-dgOV" version="17.1.2" type="github" pages="4">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="2884" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -985,6 +985,135 @@
         </mxCell>
         <mxCell id="brr5PdwdppigQHZ0Jby8-71" value="老用户增加补领优惠券逻辑" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="brr5PdwdppigQHZ0Jby8-1">
           <mxGeometry x="1388" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ELMjgJvP6CAZR1jaNk2S" name="老用户交互细节流程">
+    <mxGraphModel dx="1591" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="n8_C3oUUzQOG_wiog069-0" />
+        <mxCell id="n8_C3oUUzQOG_wiog069-1" parent="n8_C3oUUzQOG_wiog069-0" />
+        <mxCell id="n8_C3oUUzQOG_wiog069-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;container=0;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1654" y="60" width="830" height="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-3" value="老用户交互细节逻辑（含登录态）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=default;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1654" width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-5" target="n8_C3oUUzQOG_wiog069-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-5" value="登录状态进入页面" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=16;fontColor=#003366;strokeColor=default;fillColor=none;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1684" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-6" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-9" target="n8_C3oUUzQOG_wiog069-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-9" target="n8_C3oUUzQOG_wiog069-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="n8_C3oUUzQOG_wiog069-7">
+          <mxGeometry x="-0.2333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-9" value="是否成功领券" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1704" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-10" value="展示领取的优惠券" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1684" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-11" value="补领优惠券模块" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=none;fontColor=#003366;rounded=0;dashed=1;sketch=0;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1884" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#003366;fillColor=default;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1654" y="480" width="830" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-14" target="n8_C3oUUzQOG_wiog069-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-14" value="Banner图" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="670" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-15" value="使用Swiper" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1934" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-17" target="n8_C3oUUzQOG_wiog069-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-17" value="优惠券专区（银行优惠券、云闪付优惠券）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="765.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-20" target="n8_C3oUUzQOG_wiog069-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-19" value="更多" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="n8_C3oUUzQOG_wiog069-18">
+          <mxGeometry x="-0.0767" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-20" value="首屏展示数量3张" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1934" y="765.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-21" value="跳转配置列表页" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="2179" y="765.5" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-24" target="n8_C3oUUzQOG_wiog069-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-23" value="展示模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="n8_C3oUUzQOG_wiog069-22">
+          <mxGeometry x="-0.3186" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-24" value="黑科技专区" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="855.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-27" target="n8_C3oUUzQOG_wiog069-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-26" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="n8_C3oUUzQOG_wiog069-25">
+          <mxGeometry x="-0.2587" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-27" value="&lt;h3 id=&quot;id-京东支付小程序一期-”快付、小额免密、一键绑卡、膨胀金、订单公益、助农馆、账户安全保障“入口&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; font-size: 16px ; line-height: 1.5 ; letter-spacing: -0.006em ; color: rgb(23 , 43 , 77)&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;快付、小额免密、一键绑卡、膨胀金、订单公益、助农馆、账户安全保障&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;align=left;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1934" y="855.5" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-28" value="跳出小程序、达到商城app打开" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;align=left;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="2294" y="855.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-29" value="交互功能区" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#003366;fillColor=none;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1654" y="480" width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-31" target="n8_C3oUUzQOG_wiog069-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-31" value="乡村振兴专区" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="990" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="n8_C3oUUzQOG_wiog069-1" source="n8_C3oUUzQOG_wiog069-34" target="n8_C3oUUzQOG_wiog069-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-33" value="方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#003366;" vertex="1" connectable="0" parent="n8_C3oUUzQOG_wiog069-32">
+          <mxGeometry x="-0.4297" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-34" value="展示方式根据定位坐标展示" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1944" y="990" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-35" value="1.百度地图lbs&lt;br&gt;2.中台sdk接口获取" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;rounded=0;dashed=1;sketch=0;align=left;strokeColor=#82b366;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="2204" y="990" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-36" value="图片加载方式（懒加载）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;rounded=0;dashed=1;sketch=0;strokeColor=#6c8ebf;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="570" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-37" value="关于此功能的地址位置获取API:https://mp-docs.jd.com/api/openInterface/toNative.html" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="1070" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8_C3oUUzQOG_wiog069-38" value="关于此功能的跳转京东APP API:https://mp-docs.jd.com/api/openInterface/toNative.html" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n8_C3oUUzQOG_wiog069-1">
+          <mxGeometry x="1674" y="936" width="780" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
