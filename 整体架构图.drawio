@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T09:05:56.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="m40T7FaT1-GH892KpzX2" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-17T09:06:09.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NpaOGxihVf6UBxpN5LLt" version="17.1.2" type="github" pages="5">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="2884" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -597,7 +597,7 @@
         <mxCell id="me-IX-WoQK-RKkwOGYY1-0" />
         <mxCell id="me-IX-WoQK-RKkwOGYY1-1" parent="me-IX-WoQK-RKkwOGYY1-0" />
         <mxCell id="me-IX-WoQK-RKkwOGYY1-2" value="" style="group" vertex="1" connectable="0" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="30" y="20" width="240" height="560" as="geometry" />
+          <mxGeometry x="40" y="40" width="240" height="560" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-2">
           <mxGeometry width="240" height="560" as="geometry" />
@@ -627,55 +627,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-12" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="322" y="20" width="270" height="850" as="geometry" />
+          <mxGeometry x="332" y="40" width="270" height="850" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-13" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;老用户&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="322" y="20" width="270" height="40" as="geometry" />
+          <mxGeometry x="332" y="40" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-15" target="me-IX-WoQK-RKkwOGYY1-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-15" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 16px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;1.新人专享领券区（轮播效果&lt;/font&gt;）&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="70" width="245" height="60" as="geometry" />
+          <mxGeometry x="345" y="90" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-17" target="me-IX-WoQK-RKkwOGYY1-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-17" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 16px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;font color=&quot;#003366&quot; style=&quot;font-size: 16px&quot;&gt;2.今日省钱必领（左右滑动，分两行，每行&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;/6&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;列，超出查看更多）&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="160" width="245" height="60" as="geometry" />
+          <mxGeometry x="345" y="180" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-19" target="me-IX-WoQK-RKkwOGYY1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-19" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; font-size: 16px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;font color=&quot;#003366&quot; style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;3.省心黑科技&lt;/font&gt;（配置内容点击跳转京东&lt;span class=&quot;s1&quot; style=&quot;font-weight: normal ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;H5&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;pingfang sc&amp;#34; ; font-weight: normal&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="250" width="245" height="60" as="geometry" />
+          <mxGeometry x="345" y="270" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-21" target="me-IX-WoQK-RKkwOGYY1-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-21" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; letter-spacing: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#003366&quot;&gt;4.银行特惠专区优惠券（显示前三，超出跳转更多配置页查看）&lt;/font&gt;&lt;/p&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="340" width="245" height="60" as="geometry" />
+          <mxGeometry x="345" y="360" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-23" target="me-IX-WoQK-RKkwOGYY1-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-23" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; letter-spacing: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#003366&quot;&gt;5.云闪付专享福利优惠券（全部展示，数量可数，不需要更多查看）&lt;/font&gt;&lt;/p&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="430" width="245" height="80" as="geometry" />
+          <mxGeometry x="345" y="450" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#003366;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-25" target="me-IX-WoQK-RKkwOGYY1-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-25" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; letter-spacing: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#003366&quot;&gt;6.乡村振兴专区（广告轮播图）&lt;/font&gt;&lt;/p&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="540" width="245" height="80" as="geometry" />
+          <mxGeometry x="345" y="560" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="me-IX-WoQK-RKkwOGYY1-1" source="me-IX-WoQK-RKkwOGYY1-27" target="me-IX-WoQK-RKkwOGYY1-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-27" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; line-height: 1.5 ; letter-spacing: -0.006em ; font-size: 14px&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; letter-spacing: normal ; font-size: 16px&quot;&gt;&lt;font color=&quot;#003366&quot; style=&quot;font-size: 16px&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;7.LBS&lt;/span&gt;自动推荐区（采用地理位置查询区域商户）&lt;/font&gt;&lt;/p&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="650" width="245" height="80" as="geometry" />
+          <mxGeometry x="345" y="670" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="me-IX-WoQK-RKkwOGYY1-28" value="&lt;h3 id=&quot;id-京东支付小程序一期-页面分为”品牌logo＋slogan“区域、”引导开启按钮“区域、京东支付介绍及京东支付使用介绍区域&quot; style=&quot;margin: 0px ; padding: 0px ; line-height: 1.5 ; letter-spacing: -0.006em&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; letter-spacing: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#003366&quot;&gt;8.京东支付笔笔返京豆（广告轮播图）&lt;/font&gt;&lt;/p&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;align=center;" vertex="1" parent="me-IX-WoQK-RKkwOGYY1-1">
-          <mxGeometry x="335" y="760" width="245" height="80" as="geometry" />
+          <mxGeometry x="345" y="780" width="245" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
