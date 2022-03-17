@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T09:01:59.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="YPU9XhHBYz2wRg9lkX0g" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T09:02:13.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4l9WdSpj8khRshHxS5Xj" version="17.1.2" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -586,7 +586,7 @@
           <mxGeometry x="2470" y="1090" width="730" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c-EoBA_gJX8a5oniv63t-2" value="关于此功能的跳转京东APP API:https://mp-docs.jd.com/api/openInterface/toNative.html" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="956" width="730" height="30" as="geometry" />
+          <mxGeometry x="2470" y="956" width="780" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
