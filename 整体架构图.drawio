@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T09:06:48.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="a6a6v2mpqGt6unf-EgsE" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-18T09:16:55.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="S8hGecWJ-3jC0ETSpk5d" version="17.1.3" type="github" pages="5">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="所有交互图汇总">
-    <mxGraphModel dx="2884" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,11 +582,11 @@
         <mxCell id="ei_FqSJ4KLF9EHLbvm5I-79" value="图片加载方式（懒加载）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;rounded=0;dashed=1;sketch=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2470" y="590" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-EoBA_gJX8a5oniv63t-1" value="关于此功能的地址位置获取API:https://mp-docs.jd.com/api/openInterface/toNative.html" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="c-EoBA_gJX8a5oniv63t-1" value="关于此功能的地址位置获取API:https://mp-docs.jd.com/api/openInterface/toNative.html" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2470" y="1090" width="730" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c-EoBA_gJX8a5oniv63t-2" value="关于此功能的跳转京东APP API:https://mp-docs.jd.com/api/openInterface/toNative.html" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="956" width="780" height="30" as="geometry" />
+        <mxCell id="c-EoBA_gJX8a5oniv63t-2" value="关于此功能的跳转京东APP API:&lt;br&gt;https://mp-docs.jd.com/api/openInterface/toNative.html&amp;nbsp; &amp;nbsp;&lt;br&gt;https://cf.jd.com/pages/viewpage.action?pageId=339129861" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2470" y="956" width="780" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
